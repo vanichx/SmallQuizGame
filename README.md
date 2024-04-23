@@ -37,12 +37,13 @@ The result page displays the user's score and offers the option to retake the qu
 ### Open the project in Xcode.
 <img width="742" alt="Screenshot 2024-04-23 at 23 34 37" src="https://github.com/vanichx/SmallQuizGame/assets/121238690/bb1c3ad6-7b39-44ab-9ec8-e64e6f537608">
 
-
 ### Build and run the project on a simulator or device.
 <img width="859" alt="Screenshot 2024-04-23 at 23 32 21" src="https://github.com/vanichx/SmallQuizGame/assets/121238690/29a50578-3c0a-42cd-9e2a-07304da564fe">
 
 ## Technologies Used
 
 SwiftUI
+
 ## Credits
-This project was created during the study on Codecademy.
+This project was created during the study on [Codecademy](https://www.codecademy.com/).
+
